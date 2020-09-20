@@ -12,7 +12,7 @@ public class KodillaProject {
             String createA = "";
             Random randomAGen = new Random();
             int r = randomAGen.nextInt(50) + 1;
-            System.out.println("Repetition of \"a\": " + r);
+            System.out.println("Number of repetition of \"a\": " + r);
             for (int k=0; k < r; k++){
                 createA = createA.concat("a");
             }
