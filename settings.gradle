@@ -1,3 +1,4 @@
 rootProject.name = 'kodilla-m1-5'
 include 'task-1.1'
+include 'task-1.2'
 
