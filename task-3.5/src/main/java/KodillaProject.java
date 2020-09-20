@@ -47,7 +47,7 @@ public class KodillaProject {
             Random randomK = new Random();
             bookMap.put(new Key(randomK.nextInt(400)), new Book(randomT.nextInt(500), randomA.nextInt(200)));
         }
-        System.out.println("Size of map: " + bookMap.size());
+        System.out.println("Size map: " + bookMap.size());
 
         begin = System.nanoTime();
         Random randomK = new Random();
