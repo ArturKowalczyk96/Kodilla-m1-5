@@ -7,4 +7,5 @@ include 'test-1.5'
 include 'task-1.6'
 include 'task-2.1'
 include 'task-2.4'
+include 'task-2.5'
 
